@@ -11,3 +11,12 @@
 .font-two-google{
     font-family: 'Sedgwick Ave Display', cursive;
 }
+
+.custom-button {
+    border: none;
+    padding: 12px 24px;
+    background-color: cyan;
+  }
+  .custom-button:hover {
+    background-color: rgb(42, 5, 225);
+  }
